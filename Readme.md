@@ -30,3 +30,5 @@ Start the application
 Place your hand in front of the webcam
 The system will recognize the sign and display text output
 
+#create folder as Data
+sub folder for capture the sign language like "C:\Users\ELCOT\Desktop\sign_language_interaction_system\Data\Name"
